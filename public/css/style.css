@@ -1,0 +1,51 @@
+/* make the navbar icons bigger */
+.icon-sm {
+  font-size: 2rem;
+}
+
+/* Heart Icon */
+.fa-heart {
+  font-size: 1.5rem;
+}
+
+/* Make the avatar icon in profile page a little bit bigger */
+.icon-lg{
+  font-size: 9rem;
+}
+
+/* To add default width and height to image of posts in profile page */
+.grid-img{
+  width: 100%;
+  height: 300px;
+  /* Height is not dinamic to oprimaze for widescreen */
+  object-fit: cover;
+}
+
+.avatar-lg{
+  width: 9rem;
+  height: 9rem;
+  object-fit: cover;
+}
+
+.avatar-sm{
+  width: 2rem;
+  height: 2rem;
+  object-fit: cover;
+}
+
+.avatar-md{
+  width:3.5rem;
+  height:3.5rem;
+  object-fit: cover;
+}
+
+.icon-md{
+  font-size: 3.5rem;
+}
+
+/* Modal Image */
+.image-lg{
+  width: 9rem;
+  height: 9rem;
+  object-fit: cover;
+}
